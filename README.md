@@ -1,1 +1,1 @@
-# My artix linux .files
+files
